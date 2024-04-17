@@ -1,0 +1,95 @@
+body {
+  background-color: hsl(30, 54%, 90%);
+  width: 1420px;
+}
+
+h1 {
+  padding-top: 10px;
+  color: hsl(24, 5%, 18%);
+  font-family: "Young Serif", serif;
+}
+
+.container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  margin-right: 350px;
+  margin-left: 350px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-top: 40px;
+  border-radius: 20px;
+  font-family: "Young Serif", serif;
+}
+
+.omlette-img {
+  width: 600px;
+  border-radius: 10px;
+}
+
+.preparation-time {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 10px;
+}
+
+.preparation-time h3 {
+  color: hsl(332, 51%, 32%);
+}
+
+.preparation-time {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+.list-preparation {
+  padding-left: 18px;
+  text-decoration: dotted;
+  color: hsl(24, 5%, 18%);
+}
+
+.ingredients h3 {
+  color: hsl(14, 45%, 36%);
+}
+
+.instructions h3 {
+  color: hsl(14, 45%, 36%);
+}
+
+.instructions ol {
+  color: hsl(14, 45%, 36%);
+  /* font-weight: bold; */
+}
+
+.nutrition1 h3 {
+  color: hsl(14, 45%, 36%);
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+}
+.items-name {
+  margin-right: 250px;
+  margin-left: 30px;
+}
+
+.list-preparation {
+  color: hsl(332, 51%, 32%);
+}
+
+span {
+  color: hsl(30, 10%, 34%);
+  font-family: "Young Serif", serif;
+}
+
+.ingredients ul {
+  color: hsl(14, 45%, 36%);
+}
+
+.items p {
+  color: hsl(30, 10%, 34%);
+}
+
+.nutrition1 p {
+  color: hsl(30, 10%, 34%);
+}
